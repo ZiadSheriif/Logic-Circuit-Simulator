@@ -38,7 +38,7 @@
   - Circuit Probing
   - Switch back to Design Mode
 
- ***Hierarchical class***
+ ***Hierarchical Classes***
 
  ![image](Screenshot%202022-08-06%20042029.png)
  
@@ -62,14 +62,28 @@
 ## Screen Shots
 <p align="center">
 
+- Start-up page
+  
  ![landing](main.png)
 
- ![img](Screenshot%202022-08-06%20034330.png)
+- Using components with connection
+  
+  - One Switch
+  
+  ![img](Screenshot%202022-08-06%20034330.png)
 
+  - Two Switches 
+  
  ![gate](gates.png)
 
- ![sim](sim.png)
+- Simulate mode
+  
+  - On one switch   
+  
+  ![sim](sim.png)
 
+  - On two switches
+  
  ![run](test.png)
 
 </p>
