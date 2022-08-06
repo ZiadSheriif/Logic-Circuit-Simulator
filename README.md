@@ -1,5 +1,6 @@
-
-![main](Screenshot%202022-08-06%20041924.png)
+<center>
+<img src="Screenshot%202022-08-06%20041924.png">
+</center>
 
 
 **Logic simulation is the use of simulation software to predict the behavior of digital circuits and hardware description languages.**
@@ -59,6 +60,8 @@
  - Then open and click Ctrl+F5
 
 ## Screen Shots
+<center>
+
  ![landing](main.png)
 
  ![img](Screenshot%202022-08-06%20034330.png)
@@ -68,7 +71,8 @@
  ![sim](sim.png)
 
  ![run](test.png)
-
+ 
+</center>
   <!-- ![img](Logic%20Gates%20GIF%20-%20Flow%20Style%201.gif) -->
   
 
