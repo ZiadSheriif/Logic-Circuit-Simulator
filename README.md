@@ -68,10 +68,42 @@
  ![sim](sim.png)
 
  ![run](test.png)
- 
+
   <!-- ![img](Logic%20Gates%20GIF%20-%20Flow%20Style%201.gif) -->
   
 
  
  
 
+
+# Contributors
+
+<table>
+  <tr>
+    <td align="center">
+    <a href="https://github.com/ZeyadTarekk" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/76125650?v=4" width="150px;" alt="Zeyad Tarek"/>
+    <br />
+    <sub><b>Zeyad Tarek</b></sub></a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/Abd-ELrahmanHamza" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/68310502?v=4" width="150px;" alt="Abdelrahman Mohamed"/>
+    <br />
+    <sub><b>Abdelrahman Mohamed</b></sub></a>
+    </td>
+    </td>
+    <td align="center">
+    <a href="https://github.com/ZiadSheriif" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/78238570?v=4" width="150px;" alt="Ziad Sherif"/>
+    <br />
+    <sub><b>Ziad Sherif</b></sub></a>
+    </td>
+    
+    
+  </tr>
+ </table>
+
+# License
+
+> This software is licensed under MIT License, See [License](https://github.com/ZiadSheriif/Logic-Circuit-Simulator/blob/master/LICENSE) for more information ©ZiadSherif.
