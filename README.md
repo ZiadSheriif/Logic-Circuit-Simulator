@@ -98,6 +98,12 @@
 
 <table>
   <tr>
+   <td align="center">
+    <a href="https://github.com/ZiadSheriif" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/78238570?v=4" width="150px;" alt="Ziad Sherif"/>
+    <br />
+    <sub><b>Ziad Sherif</b></sub></a>
+    </td>
     <td align="center">
     <a href="https://github.com/ZeyadTarekk" target="_black">
     <img src="https://avatars.githubusercontent.com/u/76125650?v=4" width="150px;" alt="Zeyad Tarek"/>
@@ -111,12 +117,13 @@
     <sub><b>Abdelrahman Mohamed</b></sub></a>
     </td>
     </td>
-    <td align="center">
-    <a href="https://github.com/ZiadSheriif" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/78238570?v=4" width="150px;" alt="Ziad Sherif"/>
+     <td align="center">
+    <a href="https://github.com/SarahElzayat"target="_black">
+    <img src="https://avatars.githubusercontent.com/u/76779284?v=4" width="150px;" alt="Sarah Elzayat"/>
     <br />
-    <sub><b>Ziad Sherif</b></sub></a>
+    <sub><b>Sarah Elzayat</b></sub></a>
     </td>
+   
     
     
   </tr>
