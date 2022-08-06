@@ -64,7 +64,7 @@
 
 - Start-up page
   
- ![landing](main.png)
+  ![landing](main.png)
 
 - Using components with connection
   
@@ -74,7 +74,7 @@
 
   - Two Switches 
   
- ![gate](gates.png)
+  ![gate](gates.png)
 
 - Simulate mode
   
@@ -84,7 +84,7 @@
 
   - On two switches
   
- ![run](test.png)
+  ![run](test.png)
 
 </p>
   <!-- ![img](Logic%20Gates%20GIF%20-%20Flow%20Style%201.gif) -->
